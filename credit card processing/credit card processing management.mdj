@@ -12108,6 +12108,34 @@
 							"frameTypeLabel": {
 								"$ref": "AAAAAAGTaQTvGjMEeh4="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGTaVOZ3P0qZ68=",
+							"_parent": {
+								"$ref": "AAAAAAGTaOu4CCqXjdI="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"left": 1664,
+							"top": 56,
+							"width": 202,
+							"height": 55,
+							"text": "SAMRAAT DABOLAY\n\n1BM22CS236"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGTaVPbM/51LoI=",
+							"_parent": {
+								"$ref": "AAAAAAGTaOu4CCqXjdI="
+							},
+							"font": "Arial;18;0",
+							"parentStyle": false,
+							"left": 904,
+							"top": 72,
+							"width": 392,
+							"height": 66,
+							"text": "Credit Card Processing"
 						}
 					]
 				}
